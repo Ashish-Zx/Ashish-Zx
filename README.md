@@ -1,211 +1,418 @@
-## Hi there 👋
+<!-- ═══════════════════════════════════════════════════════════════════════
+     🕷️  ASHISH-Zx  ·  Spider-Man Themed Profile  ·  v2.0
+     ═══════════════════════════════════════════════════════════════════════ -->
 
-<!--
-**Ashish-Zx/Ashish-Zx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 <div align="center">
 
-<!-- Animated gradient header banner -->
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=1,2,12,14,20&section=header&text=Ashish%20Kumar%20Shah&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20•%20AI%2FML%20•%20Distributed%20Systems&descAlignY=62&descSize=18" />
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║  HERO BANNER — capsule-render with web overlay              ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
-<!-- Typing intro -->
-<a href="https://github.com/Ashish-Zx">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=4th+Year+Computer+Engineering+Student;Building+AI-powered+systems;Exploring+distributed+architectures;Crafting+multi-agent+platforms" alt="Typing SVG" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E62429,50:1A1A2E,100:2B3A67&height=300&section=header&text=Ashish-Zx&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=38&desc=With%20great%20code%20comes%20great%20responsibility&descAlignY=58&descSize=16" alt="Spider-Man Profile Banner" width="100%"/>
+
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║  WEB CORNER DECORATIONS — top-left & top-right              ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
+<div align="left" style="position:relative; margin-top:-40px;">
+<svg width="120" height="120" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg" style="opacity:0.35;">
+  <g stroke="#E62429" stroke-width="0.8" fill="none">
+    <path d="M0,0 Q60,10 120,0"/>
+    <path d="M0,0 Q10,60 0,120"/>
+    <path d="M0,0 L120,120"/>
+    <path d="M0,0 L80,120"/>
+    <path d="M0,0 L120,80"/>
+    <path d="M0,0 L40,120"/>
+    <path d="M0,0 L120,40"/>
+    <path d="M0,0 Q30,30 60,60"/>
+    <ellipse cx="20" cy="20" rx="18" ry="18" opacity="0.5"/>
+    <ellipse cx="40" cy="40" rx="36" ry="36" opacity="0.4"/>
+    <ellipse cx="60" cy="60" rx="54" ry="54" opacity="0.3"/>
+    <ellipse cx="80" cy="80" rx="72" ry="72" opacity="0.2"/>
+  </g>
+</svg>
+</div>
+
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║  ANIMATED TYPING INTRO                                      ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=E62429&center=true&vCenter=true&multiline=true&width=700&height=100&lines=🕷️+Ashish+Kumar+Shah;4th+Year+Computer+Engineering+%7C+Nepal;Building+ML+%26+AI+systems+that+stick+to+the+wall" alt="Typing Animation"/>
+
+<br/>
+
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║  WEB DIVIDER                                                ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
+<svg width="100%" height="40" viewBox="0 0 1200 40" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none">
+  <defs>
+    <linearGradient id="webGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#E62429;stop-opacity:0"/>
+      <stop offset="50%" style="stop-color:#E62429;stop-opacity:0.8"/>
+      <stop offset="100%" style="stop-color:#E62429;stop-opacity:0"/>
+    </linearGradient>
+  </defs>
+  <g stroke="url(#webGrad)" stroke-width="0.6" fill="none">
+    <path d="M0,20 Q300,0 600,20 T1200,20"/>
+    <path d="M0,20 Q300,40 600,20 T1200,20"/>
+    <line x1="0" y1="20" x2="1200" y2="20" stroke-dasharray="4,8"/>
+    <line x1="200" y1="0" x2="200" y2="40" opacity="0.3"/>
+    <line x1="400" y1="0" x2="400" y2="40" opacity="0.3"/>
+    <line x1="600" y1="0" x2="600" y2="40" opacity="0.3"/>
+    <line x1="800" y1="0" x2="800" y2="40" opacity="0.3"/>
+    <line x1="1000" y1="0" x2="1000" y2="40" opacity="0.3"/>
+  </g>
+</svg>
 
 </div>
 
----
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║  ABOUT ME — Comic Panel Style                               ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
-## <img src="https://media.giphy.com/media/iY8CRBdztXg2mBCLBA/giphy.gif" width="30" height="30"> About Me
+<div align="center">
 
-```python
-class AshishKumarShah:
-    def __init__(self):
-        self.name = "Ashish Kumar Shah"
-        self.role = "Computer Engineering Student"
-        self.year = "4th Year"
-        self.location = "Nepal 🇳🇵"
-        self.timezone = "Asia/Kathmandu (UTC+05:45)"
-        self.interests = [
-            "Artificial Intelligence & Machine Learning",
-            "Distributed Systems",
-            "Computer Networks",
-            "Multi-Agent AI Platforms"
-        ]
-        self.currently_building = "Agency Agents — Multi-Agent AI Coding Platform"
-        self.learning = "Scaling distributed architectures & LLM orchestration"
+### 🕸️ &nbsp;IDENTITY FILE&nbsp; 🕸️
+
+</div>
+
+<div align="center">
+<table>
+<tr>
+<td width="600" valign="top">
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────┐
+│  🕷️  SUBJECT: Ashish Kumar Shah             │
+│  📍  LOCATION: Nepal                        │
+│  🎓  STATUS: 4th Year — Computer Eng.       │
+│  🧬  DNA: Python · ML · AI · Systems        │
+│  🎯  MISSION: Build things that matter      │
+└─────────────────────────────────────────────┘
 ```
 
+</div>
+
+Hey there! I'm a **Computer Engineering student** in Nepal weaving code into solutions — from machine learning models that learn, to full-stack systems that scale. My web of interests spans **AI research**, **embedded ML (TinyML)**, and **developer tooling**.
+
+When I'm not debugging, I'm probably exploring how to make ML smaller, faster, and smarter — or contributing to open-source projects that push boundaries.
+
+</td>
+<td width="280" align="center" valign="middle">
+
+<svg width="220" height="220" viewBox="0 0 220 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="spiderGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" style="stop-color:#E62429;stop-opacity:0.3"/>
+      <stop offset="100%" style="stop-color:#E62429;stop-opacity:0"/>
+    </radialGradient>
+  </defs>
+  <circle cx="110" cy="110" r="105" fill="url(#spiderGlow)"/>
+  <g stroke="#E62429" stroke-width="1" fill="none" opacity="0.7">
+    <!-- Radial web lines -->
+    <line x1="110" y1="110" x2="110" y2="10"/>
+    <line x1="110" y1="110" x2="197" y2="60"/>
+    <line x1="110" y1="110" x2="197" y2="160"/>
+    <line x1="110" y1="110" x2="110" y2="210"/>
+    <line x1="110" y1="110" x2="23" y2="160"/>
+    <line x1="110" y1="110" x2="23" y2="60"/>
+    <!-- Concentric rings -->
+    <circle cx="110" cy="110" r="25"/>
+    <circle cx="110" cy="110" r="50"/>
+    <circle cx="110" cy="110" r="75"/>
+    <circle cx="110" cy="110" r="100"/>
+  </g>
+  <text x="110" y="118" text-anchor="middle" fill="#E62429" font-size="42" font-family="monospace" font-weight="bold">🕷️</text>
+</svg>
+
+</td>
+</tr>
+</table>
+</div>
+
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║  WEB DIVIDER 2                                              ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
+<div align="center">
+<svg width="80%" height="30" viewBox="0 0 800 30" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none">
+  <g stroke="#2B3A67" stroke-width="0.5" fill="none" opacity="0.6">
+    <path d="M0,15 C200,5 400,25 800,15"/>
+    <path d="M0,15 C200,25 400,5 800,15"/>
+  </g>
+  <circle cx="400" cy="15" r="3" fill="#E62429" opacity="0.8"/>
+</svg>
+</div>
+
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║  TECH STACK — Themed Badges                                 ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
 <div align="center">
 
-🔭 I'm currently working on **Agency Agents** — a multi-agent AI coding platform<br/>
-🌱 I'm deep-diving into **distributed systems & LLM orchestration**<br/>
-🎓 4th year **Computer Engineering** student<br/>
-📍 Based in **Nepal** 🇳🇵<br/>
-⚡ Fun fact: *I believe the best code is the code you don't write*
+### 🕸️ &nbsp;WEB OF TECHNOLOGIES&nbsp; 🕸️
 
 </div>
 
----
-
-## <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="28" height="28"> Tech Stack
-
 <div align="center">
 
-### Languages
+**🔴 Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-E62429?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-2B3A67?style=for-the-badge&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-2B3A67?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Frameworks & Libraries
+<br/>
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+**🕷️ ML & AI**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-E62429?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-2B3A67?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-### AI / ML
+<br/>
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+**🕸️ Frameworks & Tools**
 
-### Databases & Systems
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-2B3A67?style=for-the-badge&logo=react&logoColor=white)
+![Git](https://img.shields.io/badge/Git-E62429?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+<br/>
+
+**🔴 Databases & Platforms**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-2B3A67?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 </div>
 
----
-
-## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="30" height="30"> Featured Projects
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║  FEATURED PROJECTS                                          ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
 
-| 🚀 Project | 📝 Description | 🛠️ Tech | 🔗 Link |
-|:---:|:---|:---:|:---:|
-| **Agency Agents** | Multi-agent AI coding platform — orchestrating autonomous agents for software development | Python, AI/ML | [↗](https://github.com/Ashish-Zx) |
-| **Research Assistant** | AI-powered research assistant for academic paper analysis & synthesis | Python | [↗](https://github.com/Ashish-Zx/research-assistant-final-week8) |
-| **GSL → ISL** | Global Sign Language to Indian Sign Language translator using deep learning | Python, ML | [↗](https://github.com/Ashish-Zx/GSL-TO-ISL) |
-| **Tiny-ML** | Tiny Machine Learning — deploying ML models on resource-constrained embedded devices | C, ML | [↗](https://github.com/Ashish-Zx/Tiny-Ml) |
-| **Auto Service Pro** | Full-stack service management system with DBMS backend | JavaScript, DBMS | [↗](https://github.com/Ashish-Zx/Auto-Service-pro-System) |
-| **HabitHero** | Gamified habit tracker built with modern TypeScript stack | TypeScript | [↗](https://github.com/Ashish-Zx/HabitHero-1) |
-| **JSAI Build-a-thon** | AI hackathon project — rapid prototyping with JavaScript & AI | JavaScript, AI | [↗](https://github.com/Ashish-Zx/JSAI-Build-a-thon) |
-| **College AI Projects** | Collection of academic AI/ML projects and experiments | Python, Jupyter | [↗](https://github.com/Ashish-Zx/College_Ai_projects) |
+### 🕸️ &nbsp;FEATURED MISSIONS&nbsp; 🕸️
 
 </div>
 
----
-
-## <img src="https://media.giphy.com/media/kH6C7YDQ0qYaO6CWhz/giphy.gif" width="28" height="28"> GitHub Analytics
-
 <div align="center">
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ashish-Zx&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&ring_color=00D4FF&title_color=00D4FF&icon_color=00D4FF" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish-Zx&layout=compact&theme=radical&hide_border=true&langs_count=8&title_color=00D4FF" alt="Top Languages" />
-</p>
+<table width="100%">
+<thead>
+<tr>
+<th align="center">🕷️ Project</th>
+<th align="center">Description</th>
+<th align="center">Stack</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ashish-Zx&theme=radical&hide_border=true&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" alt="Streak Stats" />
-</p>
+[**research-assistant-final-week8**](https://github.com/Ashish-Zx/research-assistant-final-week8)
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ashish-Zx&theme=radical" alt="Profile Details" />
-</p>
+</td>
+<td align="left">AI-powered research assistant for academic workflows</td>
+<td align="center"><img src="https://img.shields.io/badge/Python-E62429?style=flat-square&logo=python&logoColor=white"/></td>
+</tr>
+<tr>
+<td align="center">
+
+[**GSL-TO-ISL**](https://github.com/Ashish-Zx/GSL-TO-ISL)
+
+</td>
+<td align="left">Gestural Sign Language to Indian Sign Language translator using ML</td>
+<td align="center"><img src="https://img.shields.io/badge/Python-E62429?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/ML-2B3A67?style=flat-square&logo=tensorflow&logoColor=white"/></td>
+</tr>
+<tr>
+<td align="center">
+
+[**Tiny-Ml**](https://github.com/Ashish-Zx/Tiny-Ml)
+
+</td>
+<td align="left">TinyML — deploying machine learning on microcontrollers & edge devices</td>
+<td align="center"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/> <img src="https://img.shields.io/badge/ML-2B3A67?style=flat-square&logo=tensorflow&logoColor=white"/></td>
+</tr>
+<tr>
+<td align="center">
+
+[**Auto-Service-pro-System**](https://github.com/Ashish-Zx/Auto-Service-pro-System)
+
+</td>
+<td align="left">Automated service management system with full-stack architecture</td>
+<td align="center"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/DB-2B3A67?style=flat-square&logo=mysql&logoColor=white"/></td>
+</tr>
+<tr>
+<td align="center">
+
+[**HabitHero-1**](https://github.com/Ashish-Zx/HabitHero-1)
+
+</td>
+<td align="left">Habit tracking app — build streaks, level up your life</td>
+<td align="center"><img src="https://img.shields.io/badge/TypeScript-2B3A67?style=flat-square&logo=typescript&logoColor=white"/></td>
+</tr>
+<tr>
+<td align="center">
+
+[**JSAI-Build-a-thon**](https://github.com/Ashish-Zx/JSAI-Build-a-thon)
+
+</td>
+<td align="left">AI build-a-thon project — JavaScript + AI innovation</td>
+<td align="center"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/AI-E62429?style=flat-square&logo=openai&logoColor=white"/></td>
+</tr>
+<tr>
+<td align="center">
+
+[**College_Ai_projects**](https://github.com/Ashish-Zx/College_Ai_projects)
+
+</td>
+<td align="left">Collection of AI/ML college projects and experiments</td>
+<td align="center"><img src="https://img.shields.io/badge/Python-E62429?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/></td>
+</tr>
+</tbody>
+</table>
 
 </div>
 
----
-
-## <img src="https://media.giphy.com/media/SourceFamilyMH0rC62UzS/giphy.gif" width="28" height="28"> Activity Graph
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║  GITHUB STATS — Custom Red/Blue Theme                       ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashish-Zx&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=00D4FF&line=00D4FF&point=FFFFFF&area_color=00D4FF" width="100%" alt="Activity Graph" />
+### 🕸️ &nbsp;SPIDER-SENSE STATS&nbsp; 🕸️
 
 </div>
 
----
+<div align="center">
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30" height="30"> Let's Connect
+<img src="https://github-readme-stats.vercel.app/api?username=Ashish-Zx&show_icons=true&hide_border=true&title_color=E62429&icon_color=E62429&text_color=ffffff&bg_color=0D1117&ring_color=2B3A67&hide_rank=false" alt="GitHub Stats" width="420"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Ashish-Zx&theme=dark&hide_border=true&ring=E62429&fire=E62429&currStreakLabel=2B3A67&sideLabels=E62429&dates=ffffff&background=0D111700" alt="GitHub Streak" width="420"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish-Zx&layout=donut&hide_border=true&title_color=E62429&text_color=ffffff&bg_color=0D1117&ring_color=2B3A67" alt="Top Languages" width="420"/>
+
+</div>
+
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║  ACTIVITY GRAPH                                             ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
 
-<a href="https://github.com/Ashish-Zx">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+### 🕷️ &nbsp;WEB ACTIVITY&nbsp; 🕷️
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashish-Zx&hide_border=true&bg_color=0D1117&color=2B3A67&line=E62429&point=E62429&area=true&area_color=E62429" alt="Activity Graph" width="90%"/>
+
+</div>
+
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║  CONTRIBUTION SNAKE                                         ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
+<div align="center">
+
+![Snake Animation](https://raw.githubusercontent.com/Ashish-Zx/Ashish-Zx/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║  CONTACT SECTION                                            ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
+<div align="center">
+
+### 🕸️ &nbsp;SEND A SIGNAL&nbsp; 🕸️
+
+</div>
+
+<div align="center">
+
+<a href="https://github.com/Ashish-Zx" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-Ashish--Zx-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="https://www.linkedin.com/in/ashish-kumar-shah">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:ashishkumarshah@example.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+
+<a href="mailto:ashish262official@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-ashish262official@gmail.com-E62429?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 </div>
 
----
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║  FOOTER — Web Pattern                                       ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
 
-### 🏆 GitHub Trophies
+<svg width="100%" height="60" viewBox="0 0 1200 60" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none">
+  <defs>
+    <linearGradient id="footerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#2B3A67;stop-opacity:0"/>
+      <stop offset="50%" style="stop-color:#E62429;stop-opacity:0.6"/>
+      <stop offset="100%" style="stop-color:#2B3A67;stop-opacity:0"/>
+    </linearGradient>
+  </defs>
+  <g stroke="url(#footerGrad)" stroke-width="0.5" fill="none" opacity="0.5">
+    <!-- Web strands radiating from center -->
+    <line x1="600" y1="30" x2="0" y2="0"/>
+    <line x1="600" y1="30" x2="200" y2="0"/>
+    <line x1="600" y1="30" x2="400" y2="0"/>
+    <line x1="600" y1="30" x2="600" y2="0"/>
+    <line x1="600" y1="30" x2="800" y2="0"/>
+    <line x1="600" y1="30" x2="1000" y2="0"/>
+    <line x1="600" y1="30" x2="1200" y2="0"/>
+    <line x1="600" y1="30" x2="0" y2="60"/>
+    <line x1="600" y1="30" x2="200" y2="60"/>
+    <line x1="600" y1="30" x2="400" y2="60"/>
+    <line x1="600" y1="30" x2="600" y2="60"/>
+    <line x1="600" y1="30" x2="800" y2="60"/>
+    <line x1="600" y1="30" x2="1000" y2="60"/>
+    <line x1="600" y1="30" x2="1200" y2="60"/>
+    <!-- Concentric arcs -->
+    <path d="M400,30 Q600,10 800,30"/>
+    <path d="M200,30 Q600,0 1000,30"/>
+    <path d="M400,30 Q600,50 800,30"/>
+    <path d="M200,30 Q600,60 1000,30"/>
+  </g>
+</svg>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Ashish-Zx&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=-1" alt="Trophies" />
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2B3A67,50:1A1A2E,100:E62429&height=100&section=footer&animation=fadeIn" width="100%"/>
+
+<br/>
+
+<sub>🕷️ <i>"Anyone can wear the mask. You could wear the mask. If you didn't know, that's not what makes you Spider-Man. It's what you do."</i> 🕷️</sub>
+
+<br/>
+
+<sub>⚡ Crafted with <span style="color:#E62429">❤</span> by <strong>Ashish-Zx</strong> ⚡</sub>
 
 </div>
 
----
-
-<div align="center">
-
-### 📊 Profile Views
-
-<img src="https://profile-counter.glitch.me/Ashish-Zx/count.svg" alt="Visitor Count" />
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,12,14,20&height=150&section=footer&text=&fontSize=0" />
-
-<p align="center">
-  <sub><strong>Built with ❤️ by Ashish Kumar Shah</strong></sub><br/>
-  <sub>🇳🇵 Nepal • ⏰ Asia/Kathmandu (UTC+05:45)</sub>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ashish-Zx&style=flat-square&color=00D4FF" alt="views" />
-</p>
-
-</div>
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- ═══════════════════════════════════════════════════════════════════════
+     🕷️  End of Spider-Man Profile  ·  Thwip!
+     ═══════════════════════════════════════════════════════════════════════ -->
