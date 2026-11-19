@@ -48,8 +48,8 @@ export default async function Home() {
           </div>
           <figure className="hero-figure">
             <Image
-              src="/images/flow-field.webp"
-              alt="An abstract knot of translucent jade glass, with fine strands tracing its curves"
+              src="/images/cobalt-topology.webp"
+              alt="An abstract knot of translucent blue glass, with fine strands tracing its curves"
               fill
               preload
               sizes="(max-width: 660px) 100vw, (max-width: 1100px) 52vw, 620px"
@@ -63,7 +63,7 @@ export default async function Home() {
             <figcaption>
               <Crosshair size={15} />
               <span>FIG. 01</span>
-              <span>Jade topology</span>
+              <span>Cobalt topology</span>
             </figcaption>
           </figure>
         </div>
