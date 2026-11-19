@@ -1,0 +1,56 @@
+{
+  "projects": [
+    {
+      "slug": "sentinel-sre",
+      "title": "SentinelSRE",
+      "description": "A multi-agent platform that investigates production incidents and turns stack traces into verified draft pull requests.",
+      "repository": "https://github.com/Ashish-Zx/sentinel-sre",
+      "tags": ["Next.js", "FastAPI", "Multi-Agent AI"],
+      "category": "Reliability",
+      "icon": "shield",
+      "featured": true
+    },
+    {
+      "slug": "clause-lens",
+      "title": "ClauseLens",
+      "description": "A document intelligence tool that answers questions about PDFs with clickable citations you can verify.",
+      "repository": "https://github.com/Ashish-Zx/ClauseLenss",
+      "tags": ["Python", "Next.js", "RAG"],
+      "category": "AI / ML",
+      "icon": "layers",
+      "featured": true
+    },
+    {
+      "slug": "agentic-chatbot",
+      "title": "Agentic ChatBot",
+      "description": "A tool-using research assistant with persistent conversation memory, document retrieval, and a multi-agent research mode.",
+      "repository": "https://github.com/Ashish-Zx/Agentic_ChatBot",
+      "tags": ["Python", "LangGraph", "Streamlit"],
+      "category": "AI / ML",
+      "icon": "workflow",
+      "featured": true
+    }
+  ],
+  "posts": [
+    {
+      "slug": "verify-the-fix-not-the-guess",
+      "title": "Verify the fix, not the guess",
+      "date": "2026-06-12",
+      "category": "Reliability",
+      "excerpt": "Why an agent’s confident diagnosis isn’t evidence, and what a separate verification step can actually check.",
+      "published": true,
+      "sample": true,
+      "body": "An incident agent can write a convincing explanation for almost any error. Convincing is not the same as correct. The useful question is whether the proposed fix follows from evidence that someone else can inspect.\n\n## Keep investigation and verification separate\n\nGive the verifier the original stack trace, the relevant source, and the proposed change. Ask it to name the failure it can reproduce, the invariant the fix restores, and the test that would fail if the change were wrong. A separate check is valuable precisely because it can disagree with the first explanation.\n\n## Leave a trail for the reviewer\n\nA draft pull request should distinguish observed facts from hypotheses. Include the failing test, what changed, and what could not be verified. Keep a human approval step for sensitive changes. The goal isn’t to remove judgment; it’s to make the evidence easier to review."
+    },
+    {
+      "slug": "rag-that-shows-its-work",
+      "title": "Building RAG that shows its work",
+      "date": "2026-06-04",
+      "category": "AI / ML",
+      "excerpt": "A few practical lessons on hybrid retrieval, source citations, and letting a system say “I don’t know.”",
+      "published": true,
+      "sample": true,
+      "body": "A document assistant is more useful when the reader can go directly to the passage behind an answer. The challenge is getting the right passage into context and keeping the answer tied to it.\n\n## Retrieve for meaning and for exact matches\n\nAn embedding search is good at finding related ideas. Keyword search is often better for a clause number, a product name, or a phrase that appears verbatim. Combining the two gives a reranker a more useful candidate set.\n\n## Make uncertainty part of the interface\n\nLink the actual excerpts used by the answer. If the retrieved text doesn’t support the claim, return an explicit “not found in these documents.” Evaluate the system on unanswerable questions as well as questions it can answer."
+    }
+  ]
+}

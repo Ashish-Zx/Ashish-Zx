@@ -10,6 +10,12 @@
 
 ---
 
+## Portfolio website
+
+See [Website setup](WEBSITE.md) for local development, GitHub project import, and blog publishing.
+
+---
+
 ## About
 
 I'm a 4th-year Computer Engineering student based in Nepal 🇳🇵, focused on building reliable, AI-powered systems — from full-stack applications to distributed, multi-agent AI platforms. I care deeply about engineering discipline: verification, testing, and keeping humans in the loop where it matters.
